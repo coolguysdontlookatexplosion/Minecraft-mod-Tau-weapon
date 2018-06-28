@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " C ",
+    " A "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:apple"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "A": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "falloutmod:vint"
+  }
+}
